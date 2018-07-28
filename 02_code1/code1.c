@@ -5,7 +5,6 @@ int max (int num1, int num2) {
   }
       else
 	{
-
 	  return num2;
 	  }
     
